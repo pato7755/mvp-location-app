@@ -1,0 +1,6 @@
+rootProject.name = "location-app"
+include ':app'
+include ':app:mylibrary'
+include ':data'
+include ':usecases'
+include ':domain'
