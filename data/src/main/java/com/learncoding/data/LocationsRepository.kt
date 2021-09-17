@@ -1,6 +1,7 @@
 package com.learncoding.data
 
-import android.location.Location
+import com.learncoding.domain.Location
+
 
 class LocationsRepository(
     private val locationPersistenceSource: LocationPersistenceSource,
