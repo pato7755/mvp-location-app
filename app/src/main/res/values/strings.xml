@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">location-app</string>
+    <string name="request_new_location">Request New Location</string>
 </resources>
